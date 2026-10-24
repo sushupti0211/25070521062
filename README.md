@@ -17,3 +17,4 @@ cd client
 npm install
 npm run dev
 ```
+evrything is working after setting up mongodb compass after installation as mentioned commands
